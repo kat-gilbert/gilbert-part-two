@@ -22,8 +22,8 @@ else {alert("Not enough energy to walk!")
 }
 }
 }
-console.log("Pet Name: " + petName)
-console.log("Happiness: " + happiness)
-console.log("Energy: " + energy)
-console.log(petName + " has " + happiness + " happiness and " + energy + " energy.")
-document.write(petName + " has " + happiness + " happiness and " + energy + " energy.")
+console.log("Pet Name: " + petName);
+console.log("Happiness: " + happiness);
+console.log("Energy: " + energy);
+console.log(petName + " has " + happiness + " happiness and " + energy + " energy.");
+document.write(petName + " has " + happiness + " happiness and " + energy + " energy.");
