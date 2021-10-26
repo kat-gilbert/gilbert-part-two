@@ -25,4 +25,9 @@ else {alert("Not enough energy to walk!")
 console.log("Pet Name: " + petName);
 console.log("Happiness: " + happiness);
 console.log("Energy: " + energy);
+<<<<<<< HEAD
 console.log(petName + " has " + happiness + " happiness and " + energy + " energy.");
+=======
+console.log(petName + " has " + happiness + " happiness and " + energy + " energy.");
+document.write(petName + " has " + happiness + " happiness and " + energy + " energy.");
+>>>>>>> b5524f627f690acb99e47af2b078c6da82396dbd
